@@ -83,10 +83,13 @@ Setup Instructions
 
 
 ## 👥 User Accounts
-Role	Default Credentials
-Admin	admin@example.com / 123
-Teacher	teacher@example.com / 123
-Student	student@example.com / 123
+
+| Role    | Default Credentials         |
+|---------|-----------------------------|
+| Admin   | `admin@example.com` / `123` |
+| Teacher | `teacher@example.com` / `123` |
+| Student | `student@example.com` / `123` |
+
 
 
 ## 🧪 Contributing & Issues
