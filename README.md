@@ -44,7 +44,7 @@ Setup Instructions
 # For PHP/MySQL stack:
 1. Clone the repository:
 ```bash
-   git clone https://github.com/YourUsername/School-Management-System.git
+   git clone https://github.com/Govar12dhan/School-Management-System.git
    cd School-Management-System
 ```
 2.Place it into your server's htdocs folder (e.g., xampp/htdocs/).
@@ -57,7 +57,7 @@ Setup Instructions
 
 6. Start your web and database server.
 
-7. Open in browser: http://localhost/YourRepoFolder.
+7. Open in browser: http://localhost/School-management-system.
 
 # For Node.js/Express:
 1. Create .env with required variables (e.g. DB_URI).
